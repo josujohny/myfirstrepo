@@ -7,6 +7,7 @@ public class Main {
 		
 		SalesData objSalesData = new SalesData();
 		System.out.println("welcome to sales app");
+		System.out.println("new updates");
 		
 		displayGreeting();
 		
